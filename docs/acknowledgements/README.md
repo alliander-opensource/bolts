@@ -10,3 +10,8 @@ To serve the presentation locally on can use the following command:
 ```
 python -m SimpleHTTPServer
 ```
+
+## Search for emoji
+To include an emoji in the presentation it helps to know the HTML entity code for it. One can search for it at the [unicode table][table]
+
+[table]: https://unicode-table.com/en/ 
