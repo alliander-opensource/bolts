@@ -6,3 +6,14 @@ blockquote {
     padding-left: 2em;
     padding-right: 2em;
 }
+
+span.story {
+    font-size: 300%;
+}
+
+span.story .group {
+    border-style: dashed;
+    border-color: black;
+    border-width: 2px;
+    margin-left: 3px;
+}
