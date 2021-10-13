@@ -53,7 +53,6 @@ class: middle, center
 
 > God made the integers;<br>all else is the work of man<br>&mdash; Leopold Kronecker
 
-
 --
 
 -----
@@ -65,3 +64,17 @@ class: middle, center
 # Natural Numbers
 ## Zero
 ## Successor(n)
+
+---
+
+# &#91; &#127820;, &#127822;, &#127821; &#93;
+# &#8615;
+# &#40; &#127820;, &#91; &#127820;, &#127822;, &#127821; &#93; &#41;
+
+---
+
+# Curry-Howard Correspondence
+
+---
+
+# Type Driven Development
