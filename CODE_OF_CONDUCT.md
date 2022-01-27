@@ -1,7 +1,7 @@
 <!--
-SPDX-FileCopyrightText: 2022 Contributors to the Bolts project
+SPDX-FileCopyrightText: 2014 Coraline Ada Ehmke
 
-SPDX-License-Identifier: MPL-2.0
+SPDX-License-Identifier: CC-BY-4.0
 -->
 
 # Code of Conduct
