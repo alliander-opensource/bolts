@@ -1,24 +1,14 @@
 <!--
-SPDX-FileCopyrightText: 2022 Contributors to the License scan action project <OSPO@alliander.com>
+SPDX-FileCopyrightText: 2022 Contributors to the Bolts project
 
-SPDX-License-Identifier: Apache-2.0
+SPDX-License-Identifier: MPL-2.0
 -->
 
 # Getting Help
 
-There are a few ways to connect with the `license scan action` project:
+There are a few ways to connect with the `Bolts` project:
 
 * Submit an issue
-* Send an email to the maintainers: <OSPO@alliander.com>.
-
-## How to ask for help, suggest a feature, or give recommendations.
-
-If you have trouble installing, building, or using license scan action, 
-but there's not yet reason to suspect you've encountered a genuine bug,
-you can ask a question in the Discussions tab of the repository.
-
-If you have an idea for a new feature or some recommendations for existing features or documentations, 
-you can also propose it in the Discussions tab.
 
 ## How to report a bug
 
