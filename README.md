@@ -54,4 +54,4 @@ Please read [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) and [CONTRIBUTING](CONTRIBUTIN
 for contributing.
 
 # Contact
-Please read [SUPPORT](SUPPORT.md) for how to connect and get into contact with the `Bolts` project.
+Please read [SUPPORT](SUPPORT.md) for how to connect and get into contact with the `Bolts` project. 
