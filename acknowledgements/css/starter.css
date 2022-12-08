@@ -1,0 +1,27 @@
+blockquote {
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-left-color: gray;
+    background-color: #F2F3F4;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+span.story {
+    font-size: 300%;
+}
+
+span.story .green {
+    color: #77b255;
+}
+
+span.story .red {
+    color: #f0160a;
+}
+
+span.story .group {
+    border-style: dashed;
+    border-color: black;
+    border-width: 2px;
+    margin-left: 3px;
+}
