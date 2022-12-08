@@ -14,9 +14,10 @@ jobs:
       - name: Build index
         run: python bin/index_bolts.py
       - name: Create gh-pages
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: ad-m/github-push-action@master
         with:
-          target_branch: gh-pages
-          build_dir: docs
+          branch: gh-pages
+          force: true
+          directory: docs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
